@@ -8,7 +8,7 @@ I'm Saul Puentes a Remote Full-stack Web Developer based in Mexico. Searching fo
 
 #### 🌱 I’m currently learning Kubernetes and Microservices architecture
 
-### 💬 Ask me about Javascript, React, Wordpress, Shopify
+### 💬 Ask me about Javascript, React, MongoDB, Shopify
 
 <!-- ### :construction_worker: This week stats by [WakaTime]('https://wakatime.com') -->
 <!--START_SECTION:waka-->
