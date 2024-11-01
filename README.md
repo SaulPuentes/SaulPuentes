@@ -6,9 +6,9 @@ I'm Saul Puentes a Remote Full-stack Web Developer based in Mexico. Searching fo
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/saulcodes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saul-puentes)
 
-#### 🌱 I’m currently learning AWS, Kubernetes and Microservices architecture
+#### 🌱 I’m currently learning AWS, Contentstack and Composable Commerce
 
-### 💬 Ask me about Javascript, React, MongoDB, Shopify
+### 💬 Ask me about Javascript, React, Shopify
 
 <!-- ### :construction_worker: This week stats by [WakaTime]('https://wakatime.com') -->
 <!--START_SECTION:waka-->
