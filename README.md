@@ -4,7 +4,7 @@ I'm Saul Puentes a Remote Full-stack Web Developer based in Mexico. Searching fo
 
 ### 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/saulcodes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saul-puentes)
+[![Follow on IG](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/saulcodes) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/saul-puentes)
 
 #### 🌱 I’m currently learning AWS, Contentstack and Composable Commerce
 
