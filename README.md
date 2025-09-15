@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Saul Puentes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
 
@@ -40,4 +38,4 @@ I'm a **Remote Full-stack Web Developer** based in Mexico, passionate about crea
 ---
 
 <img src="https://komarev.com/ghpvc/?username=saulpuentes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+
