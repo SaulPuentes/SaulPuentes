@@ -5,6 +5,12 @@
 I'm a **Remote Full-stack Web Developer** based in Mexico, passionate about creating amazing digital experiences. I'm always searching for interesting projects and awesome people to work with. But don't let that stop you from contacting me if you only want to make friends, grab a beer, have a chat, discuss some tech ideas, or share business opportunities! 
 
 
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-puentes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.puentess@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saulpuentes.github.io)
+
 ### 🌱 Currently Learning
  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
@@ -27,12 +33,6 @@ I'm a **Remote Full-stack Web Developer** based in Mexico, passionate about crea
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B35?style=for-the-badge&logo=mobile&logoColor=white)
 ![Contentstack](https://img.shields.io/badge/Contentstack-667EEA?style=for-the-badge&logo=contentstack&logoColor=white)
-
-
-### 📫 Let's Connect!
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-puentes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.puentess@gmail.com)
 
 ---
 
